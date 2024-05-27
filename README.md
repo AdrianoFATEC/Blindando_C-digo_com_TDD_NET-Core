@@ -35,12 +35,12 @@ O projeto é composto por duas partes principais:
 
 1. **Clone este repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/desafio_tdd_dio.git
+    git clone https://github.com/AdrianoFATEC/Blindando_C-digo_com_TDD_NET-Core.git
     ```
 
 2. **Navegue até o diretório do projeto**:
     ```bash
-    cd desafio_tdd_dio
+    cd Blindando_C-digo_com_TDD_NET-Core.git 
     ```
 
 3. **Restaure as dependências do projeto**:
